@@ -1,5 +1,5 @@
 # Future_Intern_task2
-This the description of my first task in Future Intern
+This the description of task in Future Intern
 Task-2: Calculate Summary Statistics
 Steps involved-
 
